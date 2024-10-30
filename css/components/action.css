@@ -1,0 +1,16 @@
+.action {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    margin-right: 30px;
+}
+
+.action::before {
+    content: "";
+    background-color:#F25A70;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,7 @@
+#logo {
+    width:60px;
+}
+
+#logo:hover {
+    box-shadow: 5px 5px 0 #000;
+}
